@@ -1,10 +1,10 @@
 # Modern post office
 - It manages pending clients in a fair manner on the principle of downloading numbers, with</br>
-the possibility of handling, for example, pregnant women or disabled people outside the queue.</br>
+the possibility of handling, for example, pregnant women or disabled people outside the order.</br>
 - Provides remote access to pending shipments</br>
 - Verifies the identity of customers based on biometric data instead of an identity document</br>
-- It stores data in a persistent manner</br></br>
-### Example of use:<br/><br/>
+- It stores data in a persistent manner</br>
+### Example of use:<br/>
 
 ```cpp
 try {

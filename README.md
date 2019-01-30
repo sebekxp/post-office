@@ -1,10 +1,10 @@
-Markup :  # Modern post office #
-Markup : * It manages pending clients in a fair manner on the principle of downloading numbers, with</br>
+# Modern post office
+- It manages pending clients in a fair manner on the principle of downloading numbers, with</br>
 the possibility of handling, for example, pregnant women or disabled people outside the queue.</br>
-Markup : * Provides remote access to pending shipments</br>
-Markup : * Verifies the identity of customers based on biometric data instead of an identity document</br>
-Markup : * It stores data in a persistent manner</br></br>
-Markup :  ### Example of use:<br/><br/> ###
+- Provides remote access to pending shipments</br>
+- Verifies the identity of customers based on biometric data instead of an identity document</br>
+- It stores data in a persistent manner</br></br>
+### Example of use:<br/><br/>
 
 ```cpp
 try {
